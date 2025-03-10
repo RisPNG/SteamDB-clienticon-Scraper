@@ -1,6 +1,6 @@
 # Steam's CDN "clienticon" Tool
 
-A Python-based tool that fetches client icons for all games and applications in your Steam library directly from SteamDB. Useful for restoring original Steam shortcut icons on your desktop.
+A Python-based tool that fetches client icons for all games and applications in your Steam library directly from Steam. Useful for restoring original Steam shortcut icons on your desktop.
 
 My tool DO NOT SCRAPE from SteamDB as that is against SteamDB rules stated [here](https://steamdb.info/faq/#can-i-use-auto-refreshing-plugins-or-automatically-scrape-crawl-steamdb). Instead it fetches the icon directly from Steam's CDN URL, the only contribution that SteamDB had to do with this project is for me to understand the structure of how Steam store their clienticon in their url.
 
