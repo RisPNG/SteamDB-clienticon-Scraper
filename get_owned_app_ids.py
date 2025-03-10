@@ -4,7 +4,7 @@ import json
 # Replace with your Steam Web API key and Steam ID
 # Steam Web API Key: https://steamcommunity.com/dev/apikey
 # Steam64 ID / steamID64: https://steamid.xyz/
-STEAM_WEB_API_KEY = "D22C3F3D155FAC84C0E44B2907599E56"
+STEAM_WEB_API_KEY = "Steam Web API Key"
 STEAM_ID = "76561198028632468"
 
 # Steam API endpoint to get owned games
