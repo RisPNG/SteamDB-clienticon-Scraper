@@ -1,4 +1,4 @@
-# Steam's CDN "clienticon" Tool
+# SteamCDN "clienticon" Tool
 
 A Python-based tool that fetches client icons for all games and applications in your Steam library directly from Steam. Useful for restoring original Steam shortcut icons on your desktop.
 
